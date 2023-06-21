@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    background-color: darkgrey;
+    color: indigo;
+    padding: 3px;
+    font-family: "Fira Code Light";
+    margin-bottom: 20px;
+}
+h2 {
+    text-align: center;
+    font-family: "Fira Code Light";
+    border: 2px black solid;
+    color: indigo;
+    margin-bottom: 20px;
+}
+.container{
+    border: 1px indigo solid;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    max-height: 1150px;
+    background-color: darkgrey;
+}
+.form-group label{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: indigo;
+    margin-bottom: 10px;
+}
+.form-group{
+    margin-top: 20 px;
+}
+.form-group input {
+    width: 100%;
+    padding: 20px;
+    border-radius: 3px;
+    border:indigo 1px solid;
+    margin-bottom: 5px;
+}
+.formgroup{
+    margin-top: 10px;
+    color: indigo;
+
+    margin-bottom: 10 px;
+}
+p{
+    color: indigo;
+    font-family: "Nimbus Sans";
+    background-color: darkgrey;
+}
+.form-group button{
+background-color: aqua;
+    width: 100%;
+    padding: 10px;
+border: none;
+border-radius: 5px;
+    color: indigo;
+}
+.navbar{
+    background-color: darkgray;
+}
